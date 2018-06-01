@@ -13,7 +13,7 @@ public class sampleApplication extends Application<sampleConfiguration> {
 
     @Override
     public String getName() {
-        return "piyo";
+        return "EDUDB";
     }
 
     @Override
